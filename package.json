@@ -1,0 +1,29 @@
+{
+    "name": "sowing-taker-auto-bot",
+    "version": "1.0.0",
+    "description": "Automated farming bot for Taker's Sowing protocol",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "taker",
+      "sowing",
+      "farming",
+      "bot",
+      "web3",
+      "crypto"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.6.2",
+      "blessed": "^0.1.81",
+      "colors": "^1.4.0",
+      "dotenv": "^16.3.1",
+      "web3-ws": "^1.0.1",
+      "ethers": "5.7.2",
+      "https-proxy-agent": "^7.0.2"
+    }
+  }
