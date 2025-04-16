@@ -102,8 +102,4 @@ This bot is provided for educational purposes only. Use at your own risk. The de
 
 Last updated: Wed Apr 16 22:11:28 UTC 2025
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/airdropinsiders/Sowing-Taker-Auto-Bot/issues) if you want to contribute.
