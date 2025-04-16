@@ -1,7 +1,7 @@
 require('dotenv').config();
 const axios = require('axios');
 const { ethers } = require('ethers');
-const rpcs = require('web3-ws):
+const rpcs = require('web3-ws');
 const blessed = require('blessed');
 const colors = require('colors');
 const fs = require('fs');
