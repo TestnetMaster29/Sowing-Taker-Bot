@@ -27,8 +27,8 @@ An automated farming bot designed to interact with the Taker Sowing Protocol. Th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sowing-Taker-Auto-Bot.git
-cd Sowing-Taker-Auto-Bot
+git clone https://github.com/TestnetMaster29/Sowing-Taker-Bot.git
+cd Sowing-Taker-Bot
 ```
 
 2. Install dependencies:
@@ -37,8 +37,10 @@ cd Sowing-Taker-Auto-Bot
 npm install
 ```
 
-3. Create a `.env` file in the project root directory and add your private keys:
+3. Cp  `.env` file in the project root directory and add your private keys:
 
+```bash
+cp .env.example .env
 ```
 PRIVATE_KEY_1=your_private_key_here
 PRIVATE_KEY_2=another_private_key_here
