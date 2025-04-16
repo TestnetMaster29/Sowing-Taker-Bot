@@ -100,6 +100,8 @@ This bot is provided for educational purposes only. Use at your own risk. The de
 
 ## License
 
+Last updated:
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
