@@ -42,6 +42,7 @@ npm install
 ```bash
 cp .env.example .env
 ```
+```
 PRIVATE_KEY_1=your_private_key_here
 PRIVATE_KEY_2=another_private_key_here
 # Add more as needed
